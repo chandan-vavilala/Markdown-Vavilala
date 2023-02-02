@@ -28,6 +28,7 @@ I Love to play **Badminton** alot as it helps me in keeping my mind relaxed and 
 |INDIA | India is Rich in Culture and Heritage and has many ancient buildings | 30 Days |
 |ITALY | Paris is the one of the most attracted tourism in Italy | 8 Days |
 |UAE | UAE is the much Developed Country with Advanced Technology with highest Tourism Rate |18 Days|
+|SPAIN | Spain has a Highest Adventure Rate and Heritage Rate with 98% and 95% respectively .|25 Days|
 
 
 [Profile Page (Poorna Chandan Reddy Vavilala)](https://github.com/chandan-vavilala/assignment2-Vavilala/blob/278d0031becd84ee26829a4e3f1dd0cc05a72297/AboutMe.md)

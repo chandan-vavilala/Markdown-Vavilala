@@ -30,5 +30,32 @@ I Love to play **Badminton** alot as it helps me in keeping my mind relaxed and 
 |UAE | UAE is the much Developed Country with Advanced Technology with highest Tourism Rate |18 Days|
 |SPAIN | Spain has a Highest Adventure Rate and Heritage Rate with 98% and 95% respectively .|25 Days|
 
+***
+## Pithy Quotes
+
+>Friendship is like Peeing on Yourself, Everyone can see it but only you can feel the warm feeling that it brings .
+>> *Robert Bloch*
+
+>My Mother always used to say: the older you get, the better you get, unless you are banana.
+>> *Rose*
+
+***
+## Code Fencing
+>IMAGE PRELOADER
+
+[Stack Overflow](https://stackoverflow.com/questions/3646036/preloading-images-with-javascript)
+
+```
+$.preloadImages = function() {
+  for (var i = 0; i < arguments.length; i++) {
+    $("<img />").attr("src", arguments[i]);
+  }
+}
+
+$.preloadImages("hoverimage1.jpg","hoverimage2.jpg");
+
+```
+[Snippet Source](https://css-tricks.com/snippets/jquery/image-preloader/)
+
 
 [Profile Page (Poorna Chandan Reddy Vavilala)](https://github.com/chandan-vavilala/assignment2-Vavilala/blob/278d0031becd84ee26829a4e3f1dd0cc05a72297/AboutMe.md)
